@@ -13,7 +13,7 @@ Are you tired of the frustration that comes with searching for cited papers on p
 The code for this project is not publicly available at this time. If you are interested in using this solution for your research, please reach out to me directly for access and further information.
 
 ## Contact
-If you're ready to simplify your academic or professional journey, let’s connect! Drop me a message at [your-email@example.com] or reach out through GitHub.
+If you're ready to simplify your academic or professional journey, let’s connect! Drop me a message at vishalravi294@gmail.com or reach out through GitHub.
 
 ---
 
