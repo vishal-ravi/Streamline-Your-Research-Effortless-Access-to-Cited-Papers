@@ -19,7 +19,7 @@ If you're ready to simplify your academic or professional journey, let’s conne
 
 ### Repository Details
 - **Repository Name**: Streamline Your Research
-- **Contact for Access**: [vishalravi294@gmail.com]
+- **Contact for Access**: vishalravi294@gmail.com
 
 ---
 
