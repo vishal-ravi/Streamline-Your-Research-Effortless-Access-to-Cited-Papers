@@ -25,6 +25,3 @@ If you're ready to simplify your academic or professional journey, let’s conne
 
 Elevate your research process today! 🌟
 
---- 
-
-Feel free to customize any part of this README to better fit your style or needs!
