@@ -1,7 +1,3 @@
-Sure! Here’s a revised README that emphasizes that the code is not public and encourages interested users to contact you directly.
-
----
-
 # Streamline Your Research: Effortless Access to Cited Papers
 
 ## Overview
@@ -23,7 +19,7 @@ If you're ready to simplify your academic or professional journey, let’s conne
 
 ### Repository Details
 - **Repository Name**: Streamline Your Research
-- **Contact for Access**: [your-email@example.com]
+- **Contact for Access**: [vishalravi294@gmail.com]
 
 ---
 
